@@ -1,1 +1,4 @@
-cat nextion.serial >> /dev/ttyACM0
+#!/bin/bash
+
+#cat nextion.serial >> /dev/ttyACM0
+cat nextion.serial >> /dev/ttyAMA0
