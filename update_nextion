@@ -1,0 +1,1 @@
+cat nextion.serial >> /dev/ttyACM0
